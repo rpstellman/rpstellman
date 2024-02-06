@@ -1,6 +1,6 @@
 <h1> Hello! I'm Ryan.</h1>
 
-About me:
+<b>About me:</b>
 - 🕵🏻‍♂️ Accounting Background w/ 7 years of experience
 - 👀 I’m interested in analyzing data and cyber threats
 - 📚 I love learning; I’m currently learning Python 🐍
