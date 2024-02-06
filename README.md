@@ -9,9 +9,9 @@
 
 <h2> Data Projects</h2>
 
-<h3> Certification</h3>
+<h2> Certification</h2>
 
-<h4> Youtube Videos</h4>
+<h2> Youtube Videos</h2>
 
 <!---
 rpstellman/rpstellman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
