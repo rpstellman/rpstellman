@@ -9,7 +9,10 @@
 
 <h2> Data Projects</h2>
 
-<h2> Certification</h2>
+<h2> Certifications</h2>
+- [Google Cybersecurity Certificate]
+- [Google Data Analytics Certificate]
+- [CompTIA Security+] (http://verify.CompTIA.org)
 
 <h2> Youtube Videos</h2>
 
