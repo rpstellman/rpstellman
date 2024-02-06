@@ -8,7 +8,7 @@
 - 🏔️ Fun Fact: I live in the mountains and love hiking.
 
 <h2> Data Projects</h2>
-- [Python Capstone Project](https://github.com/rpstellman/Python---Capstone.git)
+- Python Capstone Project -- https://github.com/rpstellman/Python---Capstone.git
 
 <h2> Certifications</h2>
 
