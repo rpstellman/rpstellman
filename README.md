@@ -11,6 +11,9 @@
 - JSON to SQLite Database using Python -- https://github.com/rpstellman/JSON-to-SQLite-Using-Python
 
 <h2> Certifications</h2>
+- Google Data Analytics Certification
+- Google Cybersecurity Certification
+- CompTIA Security+
 
 <h2> Youtube Videos</h2>
 
