@@ -8,7 +8,7 @@
 - 🏔️ Fun Fact: I live in the mountains and love hiking.
 
 <h2> Data Projects</h2>
-- JSON to SQLite Database using Python -- 
+- JSON to SQLite Database using Python -- https://github.com/rpstellman/JSON-to-SQLite-Using-Python
 
 <h2> Certifications</h2>
 
