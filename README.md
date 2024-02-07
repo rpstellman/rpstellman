@@ -8,12 +8,12 @@
 - 🏔️ Fun Fact: I live in the mountains and love hiking.
 
 <h2> Data Projects</h2>
-- JSON to SQLite Database using Python -- https://github.com/rpstellman/JSON-to-SQLite-Using-Python
+- JSON to SQLite Database using Python -- https://github.com/rpstellman/JSON-to-SQLite-Using-Python  <br/>
 
 <h2> Certifications</h2>
-<- Google Data Analytics Certification/>
-- Google Cybersecurity Certification
-- CompTIA Security+
+- Google Data Analytics Certification <br/>
+- Google Cybersecurity Certification <br/>
+- CompTIA Security+ <br/>
 
 <h2> Youtube Videos</h2>
 
