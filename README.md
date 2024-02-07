@@ -11,8 +11,7 @@
 - JSON to SQLite Database using Python -- https://github.com/rpstellman/JSON-to-SQLite-Using-Python
 
 <h2> Certifications</h2>
-- 🕵🏻‍♂️ Accounting Background w/ 7 years of experience
-- Google Data Analytics Certification
+<- Google Data Analytics Certification/>
 - Google Cybersecurity Certification
 - CompTIA Security+
 
