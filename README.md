@@ -3,7 +3,7 @@
 <b>About me:</b>
 - 🕵🏻‍♂️ Accounting Background w/ 7 years of experience
 - 👀 I’m interested in analyzing data and cyber threats
-- 📚 I love learning; I’m currently learning Python 🐍
+- 📚 I love learning; I’m currently learning AI for Business 🤖
 - 📫 How to connect: https://www.linkedin.com/in/ryanpstellman/
 - 🏔️ Fun Fact: I live in the mountains and love hiking.
 
