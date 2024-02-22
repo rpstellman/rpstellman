@@ -9,6 +9,7 @@
 
 <h2> Data Projects</h2>
 - JSON to SQLite Database using Python -- https://github.com/rpstellman/JSON-to-SQLite-Using-Python  <br/>
+- PowerBI Using Python -- https://github.com/rpstellman/PowerBI-using-Python.git <br/>
 
 <h2> Certifications</h2>
 - Google Data Analytics Certification <br/>
